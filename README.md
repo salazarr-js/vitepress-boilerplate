@@ -2,12 +2,12 @@
 
 https://github.com/vuejs/eslint-plugin-vue/issues/2576
 
-- [x] `vitepress`
-- [] `eslint`
-  - [x] `@eslint/js`
-  - [x] `typescript-eslint`
-  - [x] `eslint-plugin-vue`
-  - [ ] `@eslint/markdown`
+- [x] `vitepress` setup
+- [x] `eslint` setup
+  - [x] `@eslint/js` plugin
+  - [x] `typescript-eslint` plugin
+  - [x] `eslint-plugin-vue` plugin
+  - [ ] `@eslint/markdown` plugin
 
 ## Scripts 
 
