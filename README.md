@@ -8,9 +8,9 @@
   - [x] `eslint-plugin-vue` plugin
   - [ ] `@eslint/markdown` plugin
 
-## Scripts 
+## 📜 Scripts 
 
-```sh
+```bash
 npm run lint
 ```
 
