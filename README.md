@@ -1,7 +1,6 @@
 # Vitepress + eslint template
 
-https://github.com/vuejs/eslint-plugin-vue/issues/2576
-
+## 📋 TODOs
 - [x] `vitepress` setup
 - [x] `eslint` setup
   - [x] `@eslint/js` plugin
