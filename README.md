@@ -1,4 +1,6 @@
-# Vitepress + eslint template
+# Vitepress Boilerplate
+
+Vitepress starter template.
 
 ## 📋 TODOs
 - [x] `vitepress` setup
@@ -8,11 +10,15 @@
   - [x] `typescript-eslint` plugin
   - [x] `eslint-plugin-vue` plugin
   - [ ] `@eslint/markdown` plugin
+- [ ] Tailwind
+- [ ] Components
+  - [ ] Notion-like bookmark/link component
 
 ## 📜 Scripts 
 
 ```bash
-npm run lint
+npm run docs:dev #
+npm run lint     #
 ```
 
 ## 🤝 Discussions
