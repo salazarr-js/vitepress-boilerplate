@@ -2,6 +2,7 @@
 
 ## 📋 TODOs
 - [x] `vitepress` setup
+- [x] `.md` IntelliSense
 - [x] `eslint` setup
   - [x] `@eslint/js` plugin
   - [x] `typescript-eslint` plugin
