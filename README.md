@@ -1,4 +1,4 @@
-# 📦 Vitepress Boilerplate
+# 🌱 Vitepress Boilerplate
 
 Vitepress starter template
 
