@@ -1,6 +1,6 @@
-# Vitepress Boilerplate
+# 📦 Vitepress Boilerplate
 
-Vitepress starter template.
+Vitepress starter template
 
 ## 📋 TODOs
 - [x] `vitepress` setup
